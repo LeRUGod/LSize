@@ -1,0 +1,16 @@
+name: LSize
+main: LeRUGod\LSize\LSize
+version: 0.0.1
+author: LeRUGod
+api:
+  3.12.1
+  3.13.0
+commands:
+  크기:
+    description: 크기 설정 명령어
+  크기변경:
+    description: 크기코인을 사용하여 크기를 작게하거나 키워보세요!
+  크기변경권:
+    description: 크기변경권 지급 명령어
+  내크기:
+    description: 나의 크기 확인
